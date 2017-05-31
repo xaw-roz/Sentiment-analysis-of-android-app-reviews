@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="javax.json-api-1.0-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/javax.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/joda-time.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/jollyday.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/protobuf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/slf4j-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/slf4j-simple.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/stanford-corenlp-3.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/stanford-postagger-3.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/xom.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/stanford-corenlp-3.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/javax.json-api-1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/joda-time-2.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/jollyday-0.4.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/stanford-corenlp-3.6.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/projlibs/stanfortcorenlp/xom-1.2.10-src.jar!/src" />
+    </SOURCES>
+  </library>
+</component>

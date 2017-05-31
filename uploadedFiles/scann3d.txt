@@ -1,0 +1,100 @@
+great app
+it seems that you have to shot much more than 5 photos for a rendering of model and a good lighting. works good!
+Cool, But needs improvements
+Always fails
+ALWAYS FAILS, NO MATTER WHAT.Sucks
+It's a great 3D capture app but it's very finicky, which is obvious for a app that is still in its beta stage. For what it is, it's a great 3D capture app and is MUCH faster than some of the other 3D capture apps
+So accurate results
+It works really well with my letv le 1 pro. I have one question though, why is this so slow compared to seene?
+Works fine if there's good lighting. The many options and the fact that it works offline are huge pros. the quality is decent compared to how fast it processes the models. Unfortunately I can't use custom image sets as they always result in a crash. (It would be nice to have that fixed... or maybe I do something wrong). EDIT:  All the issues with custom imagesets have been fixed. Very responsive support!
+Does not even work! Waste of time, don't bother
+Great UI. Unfortunately the generated models were not quite anatomically correct. If the algorithms improve this could be a great app.
+Program designed nicely, but I was unable to succeed with model building. Tried few times, program saying &quot;failed&quot;. Also camera focusing is slow..
+My first 3 models worked well & as expected despite non-ideal conditions (Samsung S5). I've tried other software both on the PC and android device and Scann3D has so far worked better than any of the others for me, and I'm amazed at the performance with such a limited CPU. For anyone having trouble, I'd recommend following all the hints to the letter, as they are important, and bear in mind areas with no detail cannot be resolved in 3D. I love the fact that you have import&export features, it makes the app worth using and I'll be testing it with some drone images next, assuming my phone has enough resources. Thankyou to all the developers, what a great project, with endless future possibilities. I can only hope to still be able to use the app for free (or a small fee) once it is past its beta stage.
+It tries hard, but falls short in every aspect it's a good attempt at something that would make 3d modeling much easier but fails miserably
+Great to work with
+Cool
+Suck balls
+App is cool. All you need is good light.
+It's crap works 1 in 100 000 000 times
+best app ever for me so far
+I have great hopes for this app. Biggest thing i see is it needs control of the camera brightness. I have taken sets of photos with this app and camera app and no contest. Shots with camera app are bright full of detail and sharp. Shots with this app are dull dark and no details. As a result my meshes have no real detail. Please fix this as i really want this app to be sucessful.
+App full of tips and tricks of why it doesnt work
+On my LG V20,  this app rocks.  Just playing around I made a 3d model of my coffee cup on my nightstand.  The tips provided pointed me in the right direction,  the rest was up to me.  Definitely need to take a lot of pictures, but that's as I would expect.  If you can't get this app to work,  it's your fault. Garbage in,  garbage out.
+Crap uninstall.
+Crap...sorry does not work
+I can't say it worked perfectly, but I know that what you are doing is not easy. Keep it up. I hope it gets better and better with time.
+It has potential. Will be interesting to see how this develops.
+Good luck getting the pattern before Microsoft. The did it already.
+It doesn't work with anything simple to complex.
+As I'm also a 3d modeler, I can assume the true happiness of seeing such things with this level of efforts. You developers are just awesome!
+Not bad attempt in updates would like ghost overlay to line image up would prob help app
+It is actually works! Pretty cool too, professional yet very simple . It gave me .stl file for my 3d printer and it works! I hate the gray while rotating object so I switch to old viewer since my mobile cpu is good
+Yes it is right that you have to click many pictures but the results are awesome
+Does not work.
+I've been fiddling with this app periodically for a few months now. I'd always simply gotten an error message every time I tried scanning something. Today, I entirely optimised my object; I put it on a tripod, got a flashlight to provide a constant light source, and took about 20 photos of the object. I got really excited when it finally got past 50%. Finally, the model loaded after months of trying. It returned half a model. I tried this twice, and got the same outcome. I like the potential, though.
+I do a lot of photogrammetry, and this app makes it WAY faster!
+Beside it is free and 'light.' Unlike the other who use cloud to render, I love the ability this app render the object using our own device (I know it drains battery). And able to export it without internet connection. I could say that this is a great app beside Autodesk 123D. Keep up the good work!
+It took me four tries to get a decent model with sub-optimal lighting. I'm really impressed - especially when I can export the model to a format that Blender recognises. Well done Devs!
+Good
+any improvements on the way? or is the app perfect as is
+Great, one more thing that needs an account. Uninstalled.
+Seriiusly
+100% useless...
+i didnt expect it to work but it really did the trick. and more importantly it works offline. awesome work devs. edit: taking pictures one by one is so tiring. can you add a feature where to just rotate the camera slowly around object and turn it in to 3 d model.
+Why do i need an account if uploads arent required?
+Attempts all lead to failure.  Perhaps I am doing it wrong, but I still believe this indicates that there software requires improvement to allow it to be less finiky.
+Tried several times, eother fails or is completely wrong. Useless.
+It should allow you to draw the object's outline so it know what are you trying to make 3d, I took 70 photos of an object, nice lightning, nice colours, a almost perfect circle and that it makes me tho weird flying things in the screen. #FRUSTRATING!
+Would be cool if we could export it as a model, to use in other programs like Cinema4D
+Scann3d
+App crashes when REFINING IMAGES
+I searched my phone's camera sensor width and write in app but it didn't work it is showing me unexpected error . Can you guys help me im having  &quot;infocus m 530&quot; please help me i want to use this app
+I tried Catch123d first with no success then Scann3D, it's amazing, great work, great ease of use, I would like an export to email option from app.
+Has potential
+Can't give it more than one star, but I'll check the app again later to see if it's fixed!
+Stitching is not accurate, only partial image visible. Tried 2 devices.
+Still not applicable
+Trying to figure out other apps, I found this gem.  You should give it a try.
+Sadly it hasn't worked once without a failed message
+This is really cool. As phone processing power increases, this is gonna get insanely good! Well done!
+It only worked once and from then on it always fails
+Noice
+Internal errors. Loads up instructions but then gives an error. Poor.
+Excellent!
+Good
+When its first time starts calculating its crash and back to home screen,secend time its stuck 1 hour on 45% and then crash 😠😭😞
+Lots of work need to improve
+Amazing
+Actually works
+Best of the best
+This app is just a rubbish
+Sometimes it crash but it's ok it's a beta. Otherwise it works pretty well
+Camera wouldn't even open! And no useful message, just a blank screen!
+I tried it on my Moto g4 play device it takes couple of minute time and shows error app doesn't respond,fro Mi two star only for app design
+I use it on my nokia 3310 and it's graphic is 2x better than my mega...
+App keeps on crashing after the photos been taken.
+This version is outdated please upgrade!what the hell that means
+Super simple and works!
+Nice to process locally instead of uploading for ages only to have a scan fail. battery usage and speed surprisingly good on Honor 8.
+no matter how many tries...
+Waiting for something like this for ages. Keep up the great work and would gladly pay for an app like this.
+I had thinking of this idea from long time but the app is very difficult to use I suggest if there are a reference point it well be easier to make better results!
+It crashes constantly
+Its really hard to keep distance it would be better if there is a specialized grid like viewfinder and also use in built camera focus feature to compensate dark areas and to blur out backgrounds.
+I'm having alot of issues with capturing
+Amazing
+Even though I follow all the procedures correctly, even then, either it fails or the app crashes!
+Wow amazing........... amazing and just got this
+Crashes on Kyocera hydro wave when trying to make model
+Didn't think that photogrammetry is possible in a mobile phone!! Found literally no bugs while using the app. Simple easy to use just need proper lighting and steady pics. Don't know whether to say this or not but the models don't seem to elevate from ground all models kinda stick to ground or like they are being created from the ground surface. For example if specimen is a table then the created model doesn't create an empty space between the legs the created model just creates a big extruded rectangle.
+Whilst processing images it would give me a generic processing error that said nothing about what was actually happening. I tried to use the in app help and error reporting but that mysteriously brought up my sharing menu.
+The results are fantastic, I'd happily pay for this app... my only issue, and it's a small one, is that the camera felt really slow at taking the images. Now that could be down to my phone, Samsung are notorious for their slow cameras, but other than that, the app is super fast and spits out great results. Kudos to the developers
+This app was created geniusly
+I love the app, it runs pretty smoothly and gives higher than average results, considering its all done on a phone. However, the waterproofing of the mesh is rather obvious at some parts, and there is no option to toggle such effects. Would it be possible to add those settings configurations?
+Good it is worst 3d photo scanner and said failed well done good to cheat your friend
+1. Make it automatic (user have to tap the shutter only once, and then the image will captured automatically when appropriate movement detected; or you can add an option to make it automatic or manual). 2. Make volume button as the shutter (its easier I think)
+Played with photogrammetry software years ago, but what this app achieves in hard conditions without reference points is astonishing to say at least. Excellent work devs.
+Getting better and better each update. Keep it up guys.  :0) I wish they put laser scanners into mobile phones. Hope to see much more from this app. It's getting to a very usable point now. Hope you can nail it soon to be perfect.
+I took the pictures, in an elliptical orbit, and guess what it didn't create my model even when I took 20 pictures and just so everyone knows I tried it once more new photos but still it didn't create the model. So in frustration I uninstalled it.
+I have been able to complete some models by experimenting with different backgrounds, angles,  light,  etc. It's very promising,  and I'm excited to see the recognition improve. My models seem to all get a &quot;melted chocolate&quot; effect. I have not tried it on any large objects yet (it's dark out now). Tried a small portable shelf (not real good),  a pack of smokes (pretty good,  but not totally square), a toy car (pretty good,  but melted chocolate look). I will add updates as I try new things.
